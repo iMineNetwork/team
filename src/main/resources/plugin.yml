@@ -1,0 +1,8 @@
+main: nl.imine.team.team
+name: team
+version: 0.1
+
+commands:
+  team:
+    description: team main command
+    usage: /team
