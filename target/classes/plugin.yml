@@ -1,4 +1,4 @@
-main: nl.imine.team.team
+main: nl.imine.team.TeamPlugin
 name: team
 version: 0.1
 
